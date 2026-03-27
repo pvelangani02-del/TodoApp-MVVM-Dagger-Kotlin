@@ -1,0 +1,25 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# MacOS
+.DS_Store
+
+# Kotlin specific
+*.kt
+*.kotlin_security
+
+# Android specific
+*.iml
+*.hprof
+
+# Archive files
+*.zip
+*.tar.gz
+*.gz
+
+# Log files
+*.log
